@@ -10,7 +10,7 @@ class Database {
         try {
             await mongoose.connect(config.mongodb.uri, {
                 useNewUrlParser: true,
-                useUnifiedTopology: true,
+                useUnifiedTopology: true
             });
             
             this.connected = true;

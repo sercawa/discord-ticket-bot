@@ -17,12 +17,12 @@
 [![GitHub license](https://img.shields.io/github/license/sercawa/discord-ticket-bot)](https://github.com/sercawa/discord-ticket-bot/blob/main/LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/sercawa/discord-ticket-bot)](https://github.com/sercawa/discord-ticket-bot/releases)
 
-**Geliştirici:** [Sercawa](https://github.com/sercawa)rekemzmi
+**Geliştirici:** [Sercawa](https://github.com/sercawa)
 
 </div>
 
 ## 🚀 Özellikler
-
+r
 - **MongoDB Veritabanı**: Güvenilir ve ölçeklenebilir veri saklama
 - **PM2 Desteği**: Otomatik yeniden başlatma ve log yönetimi
 - **Kurulum Sistemi**: Kolay kurulum için select menü ve modal sistemi

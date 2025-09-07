@@ -34,13 +34,8 @@ module.exports = {
       
         const panelEmbed = new EmbedBuilder()
             .setColor(config.colors.primary)
-            .setTitle('🎫 Ticket Sistemi')
-            .setDescription('Yardıma mı ihtiyacınız var? Aşağıdaki butona tıklayarak ticket oluşturun!')
-            .addFields(
-                { name: '📋 Nasıl Çalışır?', value: '• Ticket oluşturmak için aşağıdaki butona tıklayın\n• Ticket\'ınız özel bir kanalda açılacak\n• Yetkili ekip size yardımcı olacak\n• İşiniz bittiğinde ticket\'ı kapatabilirsiniz', inline: false },
-                { name: '⚠️ Önemli Notlar', value: `• Kullanıcı başına maksimum **${settings.maxTicketsPerUser}** ticket açabilirsiniz\n• Ticket\'lar sadece sizin ve yetkili ekibin görebileceği özel kanallardır\n• Gereksiz ticket açmayın`, inline: false }
-            )
-            .setFooter({ text: 'Ticket sistemi otomatik olarak yönetilir' })
+            .setTitle(message.guild.name.toUpperCase())
+            .setDescription('Başvuru için aşağıdaki butona tıklayın')
             .setTimestamp();
 
         
