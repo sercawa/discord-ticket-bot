@@ -3,7 +3,7 @@ const config = require('../config.json');
 
 module.exports = {
     data: {
-        name: 'botyardimpaneli',
+        name: 'ticketpanel',
         description: 'Ticket yardım panelini oluşturur'
     },
     async execute(message, args, client) {
