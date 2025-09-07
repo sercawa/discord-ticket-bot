@@ -4,7 +4,7 @@ const config = require('../config.json');
 module.exports = {
     data: {
         name: 'ticketpanel',
-        description: 'Ticket yardım panelini oluşturur'
+        description: 'Ticket panelini oluşturur'
     },
     async execute(message, args, client) {
         
