@@ -86,7 +86,7 @@ Ticket sistemi kurulum menüsü. Sadece yöneticiler kullanabilir.
 - Panel kanalı ayarlama
 - Sunucu ikonu URL'si ayarlama
 
-### `.botyardimpaneli`
+### `.ticketpanel`
 Ticket yardım panelini oluşturur. Sadece yetkili kullanıcı (ID: 504355598427488260) kullanabilir.
 
 **Özellikler:**
@@ -188,7 +188,7 @@ pm2 status
    - Select menüden ayarları yapılandırın
 
 2. **Panel Oluşturma:**
-   - `.Ticketpanel` komutunu çalıştırın
+   - `.ticketpanel` komutunu çalıştırın
    - Panel belirtilen kanala gönderilir
 
 3. **Ticket Açma:**
