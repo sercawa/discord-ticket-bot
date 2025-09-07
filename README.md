@@ -188,7 +188,7 @@ pm2 status
    - Select menüden ayarları yapılandırın
 
 2. **Panel Oluşturma:**
-   - `.botyardimpaneli` komutunu çalıştırın
+   - `.Ticketpanel` komutunu çalıştırın
    - Panel belirtilen kanala gönderilir
 
 3. **Ticket Açma:**
