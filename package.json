@@ -1,0 +1,31 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 Ticket Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "pm2": "pm2 start ecosystem.config.js"
+  },
+  "keywords": ["discord", "bot", "ticket", "discord.js", "mongodb", "pm2"],
+  "author": "Sercawa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sercawa"
+  },
+  "homepage": "https://github.com/sercawa/discord-ticket-bot#readme",
+  "bugs": {
+    "url": "https://github.com/sercawa/discord-ticket-bot/issues"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongoose": "^8.0.3",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
