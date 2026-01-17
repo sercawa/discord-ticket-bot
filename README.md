@@ -31,7 +31,7 @@ r
 - **Otomatik Kapatma**: Ticket'lar otomatik olarak kapatılır ve silinir
 - **Özelleştirilebilir**: Config.json ile kolay yapılandırma
 
-## 📋 Gereksinimler
+## Gereksinimler
 
 - Node.js v16.9.0 veya üzeri
 - MongoDB (yerel veya cloud)
