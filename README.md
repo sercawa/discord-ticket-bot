@@ -21,7 +21,7 @@
 
 </div>
 
-## 🚀 Özellikler
+## Özellikler
 r
 - **MongoDB Veritabanı**: Güvenilir ve ölçeklenebilir veri saklama
 - **PM2 Desteği**: Otomatik yeniden başlatma ve log yönetimi
@@ -75,7 +75,7 @@ npm run pm2
 npm run dev
 ```
 
-## 🎮 Komutlar
+## Komutlar
 
 ### `.kur`
 Ticket sistemi kurulum menüsü. Sadece yöneticiler kullanabilir.
@@ -134,7 +134,7 @@ Ticket yardım panelini oluşturur. Sadece yetkili kullanıcı (ID: 504355598427
 - `dnd` - Rahatsız Etmeyin
 - `invisible` - Görünmez
 
-## 📊 PM2 Komutları
+## PM2 Komutları
 
 ```bash
 # Botu başlat
@@ -153,7 +153,7 @@ pm2 logs ticket-bot
 pm2 status
 ```
 
-## 🗄️ Veritabanı Yapısı
+## Veritabanı Yapısı
 
 ### Tickets Koleksiyonu
 ```javascript
@@ -181,7 +181,7 @@ pm2 status
 }
 ```
 
-## 🎯 Kullanım
+## Kullanım
 
 1. **Kurulum:**
    - `.kur` komutunu çalıştırın
@@ -199,18 +199,18 @@ pm2 status
    - Ticket sahibi veya yetkili roller kapatabilir
    - 10 saniye sonra kanal otomatik silinir
 
-## 🔒 Güvenlik
+## Güvenlik
 
 - Sadece yetkili kullanıcılar komutları kullanabilir
 - Ticket'lar özel kanallarda oluşturulur
 - Yetki kontrolü her işlemde yapılır
 - MongoDB bağlantısı güvenli şekilde yönetilir
 
-## 📝 Lisans
+## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-## 🤝 Katkıda Bulunma
+## Katkıda Bulunma
 
 1. Bu projeyi fork yapın
 2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
@@ -218,19 +218,19 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
 5. Pull Request oluşturun
 
-## 📞 Destek & İletişim
+## Destek & İletişim
 
 Herhangi bir sorun yaşarsanız veya öneriniz varsa:
 
-- 🐛 **Bug Report:** [GitHub Issues](https://github.com/sercawa/discord-ticket-bot/issues)
-- 💡 **Feature Request:** [GitHub Discussions](https://github.com/sercawa/discord-ticket-bot/discussions)
-- 📧 **İletişim:** [GitHub Profile](https://github.com/sercawa)
+- **Bug Report:** [GitHub Issues](https://github.com/sercawa/discord-ticket-bot/issues)
+- **Feature Request:** [GitHub Discussions](https://github.com/sercawa/discord-ticket-bot/discussions)
+- **İletişim:** [GitHub Profile](https://github.com/sercawa)
 
-## ⭐ Projeyi Beğendiyseniz
+## Projeyi Beğendiyseniz
 
 Bu projeyi beğendiyseniz lütfen ⭐ yıldız vererek destek olun!
 
-## 🎯 Geliştirici
+## Geliştirici
 
 **Sercawa** - Discord Bot Geliştiricisi
 
@@ -241,7 +241,7 @@ Bu projeyi beğendiyseniz lütfen ⭐ yıldız vererek destek olun!
 
 <div align="center">
 
-**⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
+**Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
 
 *Bu bot Discord.js v14 kullanır ve modern Discord API özelliklerini destekler.*
 
